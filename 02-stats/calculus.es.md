@@ -15,7 +15,7 @@ Entonces, pensando como un ingeniero, no solo nos importa encontrar las respuest
 
 ### Integrales
 
-Por ejemplo, si quisieramos saber cuan lejos ha caminado una persona basada en su velocidad en cada punto del tiempo, podemos dividirlo por muchos puntos en el tiempo y multiplicar la velocidad en cada instante (t) por un pequeño cambio en el tiempo (dt) para obtener la distancia más pequeña correspondiente recorrida en ese periodo más pequeño.
+Por ejemplo, si quisiéramos saber cuan lejos ha caminado una persona basada en su velocidad en cada punto del tiempo, podemos dividirlo por muchos puntos en el tiempo y multiplicar la velocidad en cada instante (t) por un pequeño cambio en el tiempo (dt) para obtener la distancia más pequeña correspondiente recorrida en ese periodo más pequeño.
 
 Muchos de estos tipos de problemas terminan siendo equivalentes a encontrar el área debajo de un gráfico. El propósito de las pequeñas aproximaciones es que nos permite replantear el problema de qué tan lejos ha caminado la persona en la pregunta de encontrar el área bajo cierta curva.
 
